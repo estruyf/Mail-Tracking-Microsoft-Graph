@@ -1,0 +1,68 @@
+{
+    "trackers": [
+        {
+            "name": "MailChimp",
+            "url": "/track/open.php?u="
+        },
+        {
+            "name": "SendGrid",
+            "url": "/wf/open?upn="
+        },
+        {
+            "name": "Drip",
+            "url": "dripemail2"
+        },
+        {
+            "name": "Streak",
+            "url": "mailfoogae.appspot.com"
+        },
+        {
+            "name": "Bananatag",
+            "url": "bl-1.com"
+        },
+        {
+            "name": "Yesware",
+            "url": "t.yesware.com"
+        },
+        {
+            "name": "Postmark",
+            "url": "pstmrk.it/open"
+        },
+        {
+            "name": "Sidekick",
+            "url": "t.signauxtrois.com"
+        },
+        {
+            "name": "Sidekick",
+            "url": "sidekickopen"
+        },
+        {
+            "name": "TinyLetter",
+            "url": "tinyletterapp.com"
+        },
+        {
+            "name": "MixMax",
+            "url": "email.mixmax.com"
+        },
+        {
+            "name": "MailTrack",
+            "url": "mailtrack.io"
+        },
+        {
+            "name": "toutapp",
+            "url": "toutapp.com"
+        },
+        {
+            "name": "Litmus",
+            "url": "emltrk.com"
+        },
+        {
+            "name": "Boomerang",
+            "url": "mailstat.us/tr"
+        },
+        {
+            "name": "ContactMonkey",
+            "url": "contactmonkey.com/api/v1/tracker"
+        }
+    ]
+}

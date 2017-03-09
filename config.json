@@ -1,0 +1,16 @@
+{
+    "adalConfig": {
+        "authority": "https://login.microsoftonline.com/<your-tenant-id>",
+        "graphUrl": "https://graph.microsoft.com/",
+        "clientID": "<client-id>",
+        "clientSecret": "<client-secret>",
+        "subscriptionUrl": "https://graph.microsoft.com/v1.0/subscriptions",
+        "subscriptionId": "<subscription-id>"
+    },
+    "subscriptionConfig": {
+        "changeType": "Created",
+        "notificationUrl": "<azure-function-url>",
+        "resource": "Users/<user-id>/mailFolders('Inbox')/messages",
+        "clientState": "<subscription-name>"
+    }
+}

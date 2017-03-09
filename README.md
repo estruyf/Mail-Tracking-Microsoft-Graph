@@ -30,6 +30,7 @@ If you want to make use of this Azure Function code, you will have to go through
 1. Copy the **Application ID** and paste it into the `config.json` file (**clientID**).
 1. In the Azure AD app, click **keys** and generate a new secret key. Once generated copy it, and paste it in the `config.json` file (**clientSecret**).
 1. Go to the permissions section of the Azure AD app, and add **Microsoft Graph** API and give the app **Mail.ReadWrite** permissions.
+
 ![Mail application permissions](assets/030917_0923_Creatingand2.png)
 
 ### Azure Function

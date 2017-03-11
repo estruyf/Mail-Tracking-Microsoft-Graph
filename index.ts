@@ -82,7 +82,7 @@ class Tracker {
 }
 
 module.exports = function (context: IContext, req) {
-    const config: IConfig = require('./config.json');;
+    const config: IConfig = require('./config.json');
     console.log('ENV:', process.env.NODE_ENV);
 
     // Check if you are retrieving a validation token
